@@ -13,6 +13,6 @@
     <loc>/sample-html/sitemaps/sitemap5.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>/sample-html/sitemaps/sitemap-gzipped.gz</loc>
+    <loc>/sample-html/sitemaps/sitemap-gzipped.xml.gz</loc>
   </sitemap>
 </sitemapindex>
