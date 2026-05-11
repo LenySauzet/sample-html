@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/anomalies.html</loc>
+        <lastmod>2025-12-15T09:28:08Z</lastmod>
+        <title>Anomalies batchs</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/batch/menu-batch.html</loc>
+        <lastmod>2026-01-29T10:43:30Z</lastmod>
+        <title>Comptes-rendus Traitements Batch</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/chaine-recouvrement.html</loc>
+        <lastmod>2026-03-10T22:02:13Z</lastmod>
+        <title>Gestion des relances Atlantis</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/administration.html</loc>
+        <lastmod>2026-04-15T14:43:09Z</lastmod>
+        <title>Administration des utilisateurs</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/bible-wiki-externe.html</loc>
+        <lastmod>2026-02-25T08:39:55Z</lastmod>
+        <title>Bible WIKI EXTERNE</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/cartes-tp.html</loc>
+        <lastmod>2026-04-13T09:36:06Z</lastmod>
+        <title>Cartes de tiers-Payant</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/codes-erreurs.html</loc>
+        <lastmod>2024-03-12T15:50:45Z</lastmod>
+        <title>Messages d&apos;erreur</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/corbeille.html</loc>
+        <lastmod>2026-04-13T09:25:34Z</lastmod>
+        <title>Corbeilles de tâches</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/editique.html</loc>
+        <lastmod>2026-01-06T09:26:37Z</lastmod>
+        <title>Editique</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/formalite-administratives.html</loc>
+        <lastmod>2026-04-21T08:00:12Z</lastmod>
+        <title>Formalités Administratives</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/appelscotisation.html</loc>
+        <lastmod>2026-04-13T09:29:28Z</lastmod>
+        <title>Echéanciers / Appels de cotisation</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/atlas-personnes.html</loc>
+        <lastmod>2026-04-28T15:33:13Z</lastmod>
+        <title>Les personnes</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/avenants.html</loc>
+        <lastmod>2026-01-29T15:03:36Z</lastmod>
+        <title>Avenants Atlantis</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/avenants-collectifs.html</loc>
+        <lastmod>2026-01-22T13:40:46Z</lastmod>
+        <title>Avenants Collectifs</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/avenants-contrats-atlas.html</loc>
+        <lastmod>2026-04-13T09:26:42Z</lastmod>
+        <title>Avenants contrats</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/boite-a-outils.html</loc>
+        <lastmod>2026-01-21T16:08:28Z</lastmod>
+        <title>Boite à outils</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/bordereau-tresorerie.html</loc>
+        <lastmod>2026-01-29T14:57:35Z</lastmod>
+        <title>Bordereaux de trésorerie</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/compte-client.html</loc>
+        <lastmod>2026-01-15T10:44:58Z</lastmod>
+        <title>Compte client cotisations Atlantis</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/compte-client-cotisation.html</loc>
+        <lastmod>2026-04-14T13:41:22Z</lastmod>
+        <title>Compte client cotisations</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/consultation-personnes.html</loc>
+        <lastmod>2026-01-29T15:03:56Z</lastmod>
+        <title>Consultation des personnes physiques ATLANTIS</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/contrats-affiliation-atlas.html</loc>
+        <lastmod>2026-03-20T12:18:35Z</lastmod>
+        <title>Affiliation - Adhésion - Contrat</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/cotisations-anomalies-potentielles.html</loc>
+        <lastmod>2026-04-13T09:31:19Z</lastmod>
+        <title>Cotisations - Anomalies potentielles</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/creation-contrat.html</loc>
+        <lastmod>2026-01-29T15:02:15Z</lastmod>
+        <title>Contrat - Adhésion Atlantis</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/delegataire.html</loc>
+        <lastmod>2026-04-15T15:43:53Z</lastmod>
+        <title>Délégataires</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/documents.html</loc>
+        <lastmod>2026-04-13T09:26:07Z</lastmod>
+        <title>Documents : Consultation et Création</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/dsn-arborescence.html</loc>
+        <lastmod>2026-01-22T13:47:09Z</lastmod>
+        <title>DSN - Arborescence des flux</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/dsn-fp.html</loc>
+        <lastmod>2026-01-29T15:00:52Z</lastmod>
+        <title>DSN - Fiches de paramétrage</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/dsn-generalites.html</loc>
+        <lastmod>2026-04-13T09:36:54Z</lastmod>
+        <title>Gestion DSN ATLAS</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/dsn-reception.html</loc>
+        <lastmod>2023-06-08T14:07:19Z</lastmod>
+        <title>DSN - Réception</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/ecranrejets.html</loc>
+        <lastmod>2026-04-13T09:30:29Z</lastmod>
+        <title>Ecran des rejets</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/edition.html</loc>
+        <lastmod>2026-04-30T13:19:23Z</lastmod>
+        <title>Edition</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/etaler-une-dette.html</loc>
+        <lastmod>2025-12-24T14:13:40Z</lastmod>
+        <title>Etaler une dette</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/execution-des-traitements.html</loc>
+        <lastmod>2026-02-19T15:18:09Z</lastmod>
+        <title>Exécution des traitements</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/pasrau-gestion.html</loc>
+        <lastmod>2026-04-13T09:37:54Z</lastmod>
+        <title>PASRAU Gestion</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/presta-sante.html</loc>
+        <lastmod>2026-01-27T09:14:45Z</lastmod>
+        <title>Prestations Santé</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/prestationbak.html</loc>
+        <lastmod>2022-03-24T12:02:22Z</lastmod>
+        <title>WEB - Prestations Prévoyance</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/prestationemprunteur.html</loc>
+        <lastmod>2022-03-24T12:02:26Z</lastmod>
+        <title>WEB - Prestations Emprunteur</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/prestations-prevoyance.html</loc>
+        <lastmod>2026-04-13T09:34:27Z</lastmod>
+        <title>Clôture automatiques</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/prestations-prevoyance2.html</loc>
+        <lastmod>2026-04-23T13:59:31Z</lastmod>
+        <title>Prestations Prévoyance</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/prestations-prevoyance2/avenant-changement-detail-prestation.html</loc>
+        <lastmod>2026-04-13T09:34:00Z</lastmod>
+        <title>Avenant de changement de détail de prestation</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/prestations-prevoyance2/blocage-dossier.html</loc>
+        <lastmod>2026-04-13T09:33:08Z</lastmod>
+        <title>Bloquer les prestations à venir</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/prestations-prevoyance2/indu.html</loc>
+        <lastmod>2026-04-16T08:22:00Z</lastmod>
+        <title>Indu de prestation, constatation et remboursement</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/prestations-prevoyance2/requalification-evenement.html</loc>
+        <lastmod>2026-04-13T09:33:35Z</lastmod>
+        <title>Requalification d&apos;un évènement</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/prestations-prevoyance2/reglement-suite-rejet.html</loc>
+        <lastmod>2026-04-13T09:34:52Z</lastmod>
+        <title>Règlement d&apos;une prestation, suite rejet bancaire</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/prestations-sante/inscription-desinscription-408.html</loc>
+        <lastmod>2026-04-13T09:36:33Z</lastmod>
+        <title>Envoi de flux Noémie (flux 408)</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/prestij.html</loc>
+        <lastmod>2026-04-13T09:38:55Z</lastmod>
+        <title>PREST&apos;IJ</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/precomptes.html</loc>
+        <lastmod>2026-04-13T09:32:35Z</lastmod>
+        <title>Précomptes</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/prelevements-gestion.html</loc>
+        <lastmod>2026-01-06T09:25:33Z</lastmod>
+        <title>Gestion des prélèvements</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/relances-atlas.html</loc>
+        <lastmod>2026-04-13T09:51:49Z</lastmod>
+        <title>Précontentieux / MED</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/rgpd-extraction.html</loc>
+        <lastmod>2026-04-13T09:38:17Z</lastmod>
+        <title>RGPD / Archivage Données Personnelles</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/reclamations.html</loc>
+        <lastmod>2026-01-21T15:53:56Z</lastmod>
+        <title>Gestion des réclamations</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/schemas-fonctionnement-atlantis.html</loc>
+        <lastmod>2022-03-24T12:02:31Z</lastmod>
+        <title>Introduction à la structure d&apos;Atlantis</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/taches.html</loc>
+        <lastmod>2022-03-24T12:02:33Z</lastmod>
+        <title>WEB - Tâches utilisateur</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/tdbcot.html</loc>
+        <lastmod>2026-01-09T15:08:03Z</lastmod>
+        <title>Tableau de bord cotisations</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/gestion/tresorerie.html</loc>
+        <lastmod>2026-04-13T09:27:47Z</lastmod>
+        <title>Trésorerie</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/home/menu-administration.html</loc>
+        <lastmod>2026-01-12T16:18:43Z</lastmod>
+        <title>Administration</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/infocentre.html</loc>
+        <lastmod>2026-04-13T09:29:03Z</lastmod>
+        <title>Infocentre</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/organisme-centre-gestion.html</loc>
+        <lastmod>2026-01-21T09:49:37Z</lastmod>
+        <title>Organisme et Centre de Gestion</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/outils-annexes/etat-prelevements.html</loc>
+        <lastmod>2024-06-17T08:05:08Z</lastmod>
+        <title>Etat des prélèvements</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/outils-annexes/mantis.html</loc>
+        <lastmod>2025-11-05T11:10:08Z</lastmod>
+        <title>Mantis - Guide utilisateur</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/parametrage/communes.html</loc>
+        <lastmod>2026-01-21T09:22:02Z</lastmod>
+        <title>Gestion des communes</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/parametrage/criteres-mots-de-passe.html</loc>
+        <lastmod>2026-01-29T15:06:59Z</lastmod>
+        <title>Critères des mots de passe</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/parametrage/dsn-parametrage.html</loc>
+        <lastmod>2026-01-29T15:01:48Z</lastmod>
+        <title>DSN - Paramétrage</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/parametrage/mails.html</loc>
+        <lastmod>2026-01-13T13:20:59Z</lastmod>
+        <title>Gestion des mails </title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/parametrage/memo.html</loc>
+        <lastmod>2025-09-26T13:48:12Z</lastmod>
+        <title>Paramétrage des mémos</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/parametrage/new-page.html</loc>
+        <lastmod>2023-10-10T13:55:29Z</lastmod>
+        <title>Paramétrage conventions</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/parametrage/param-corbeilles.html</loc>
+        <lastmod>2026-01-05T15:28:17Z</lastmod>
+        <title>Paramétrage des corbeilles</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/parametrage/parametrage-produit-entravaux.html</loc>
+        <lastmod>2024-02-14T13:12:42Z</lastmod>
+        <title>Paramétrage produit</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/parametrage/pasrau.html</loc>
+        <lastmod>2026-03-23T16:54:28Z</lastmod>
+        <title>PASRAU</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/parametrage/renouvellement.html</loc>
+        <lastmod>2026-01-29T15:06:23Z</lastmod>
+        <title>Renouvellement des tarifs</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/variables-contrats.html</loc>
+        <lastmod>2026-04-13T09:27:02Z</lastmod>
+        <title>Avenant Variables Contrat</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/generalites/versions.html</loc>
+        <lastmod>2026-04-24T15:37:59Z</lastmod>
+        <title>Note de versions</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/home.html</loc>
+        <lastmod>2026-02-17T13:11:22Z</lastmod>
+        <title>Accueil</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/new-page.html</loc>
+        <lastmod>2026-04-20T09:27:13Z</lastmod>
+        <title>Extranet</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/pesenti/accueil-pesenti.html</loc>
+        <lastmod>2022-03-24T12:03:41Z</lastmod>
+        <title>Accueil Pesenti</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/pesenti/atlantis.html</loc>
+        <lastmod>2026-01-06T13:58:41Z</lastmod>
+        <title>Liens Atlantis</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/rechercherapide.html</loc>
+        <lastmod>2026-01-29T15:09:49Z</lastmod>
+        <title>Recherche rapide</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/strada/accueil-strada.html</loc>
+        <lastmod>2022-03-24T12:03:46Z</lastmod>
+        <title>Accueil espace Strada</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/strada/test.html</loc>
+        <lastmod>2026-01-06T14:10:18Z</lastmod>
+        <title>WIKI ATLANTIS</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/technique/copie-environnement.html</loc>
+        <lastmod>2023-06-12T15:27:37Z</lastmod>
+        <title>Rechargement/copie de serveur</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/technique/deploiementextranets.html</loc>
+        <lastmod>2023-06-29T11:35:39Z</lastmod>
+        <title>Déploiement des extranets</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/technique/installation-exploitation.html</loc>
+        <lastmod>2023-11-06T14:23:19Z</lastmod>
+        <title>Installation / Exploitation</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/technique/prerequis-atlas.html</loc>
+        <lastmod>2026-01-29T15:08:00Z</lastmod>
+        <title>Prérequis ATLAS</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/technique/url-params.html</loc>
+        <lastmod>2022-05-24T16:20:31Z</lastmod>
+        <title>Paramètres d&apos;url du client web</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/technique/editique-jasperstudio.html</loc>
+        <lastmod>2026-02-13T14:09:38Z</lastmod>
+        <title>JasperStudio</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/accueil.html</loc>
+        <lastmod>2022-03-24T12:03:50Z</lastmod>
+        <title>Accueil espace Territoria</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/avenants-en-masse.html</loc>
+        <lastmod>2024-02-19T11:09:47Z</lastmod>
+        <title>Avenants en masse</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/changement-taux-annuels.html</loc>
+        <lastmod>2024-01-30T14:44:10Z</lastmod>
+        <title>Evolutions des taux annuels, des indices ou des tarifs</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/crea-groupe-ouvert.html</loc>
+        <lastmod>2026-01-15T13:26:22Z</lastmod>
+        <title>Création d&apos;un groupe ouvert (TERRITORIA)</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/enquete-indiciaire.html</loc>
+        <lastmod>2022-03-24T12:03:53Z</lastmod>
+        <title>Enquête indiciaire</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/integrations-diverses.html</loc>
+        <lastmod>2023-12-14T11:44:05Z</lastmod>
+        <title>Intégrations par CSV : lancement manuel</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/interfaces/interface-crm.html</loc>
+        <lastmod>2022-03-24T11:55:09Z</lastmod>
+        <title>Interfaces Atlantis/CRM</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/interfaces/interfaces-infocentre.html</loc>
+        <lastmod>2022-03-24T11:55:17Z</lastmod>
+        <title>Echanges Atlantis/Infocentre enrichi/Bases de reporting Territoria</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/interfaces/interfaces-sage.html</loc>
+        <lastmod>2026-01-06T13:57:55Z</lastmod>
+        <title>Interfaces Atlantis/SAGE</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/interfaces/liste-interfaces.html</loc>
+        <lastmod>2024-02-20T08:38:24Z</lastmod>
+        <title>Liste des interfaces</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/ordonnancement-batchs.html</loc>
+        <lastmod>2024-10-04T13:20:58Z</lastmod>
+        <title>Ordonnancement des batchs</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/param-mtt.html</loc>
+        <lastmod>2024-03-12T13:29:07Z</lastmod>
+        <title>Paramétrage MTT</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/parametrer-mtt.html</loc>
+        <lastmod>2022-03-24T12:03:55Z</lastmod>
+        <title>Contrats MTT</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/traitement-dsn.html</loc>
+        <lastmod>2023-10-06T09:00:38Z</lastmod>
+        <title>Traitement des fiches DSN</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/valorisation-choix-formule.html</loc>
+        <lastmod>2026-02-24T15:30:44Z</lastmod>
+        <title>Valorisation Collective (choix de formule)</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/territoria/valorisation-coll-auto.html</loc>
+        <lastmod>2026-01-29T14:50:56Z</lastmod>
+        <title>Lancement valorisation collective depuis Atlas</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/webservices/gen.html</loc>
+        <lastmod>2026-01-29T14:42:20Z</lastmod>
+        <title>1 - Généralités</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/webservices/srv-contrat.html</loc>
+        <lastmod>2026-01-06T13:23:00Z</lastmod>
+        <title>4 - Gestion des contrats</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/webservices/srv-personnes.html</loc>
+        <lastmod>2026-01-06T13:07:52Z</lastmod>
+        <title>3 - Gestion des personnes</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/webservices/srv-recherche.html</loc>
+        <lastmod>2026-01-06T09:06:14Z</lastmod>
+        <title>2 - Recherche</title>
+    </url>
+    <url>
+        <loc>https://tools.pwa-assurance.fr/wiki-export/html/webservices/web-service.html</loc>
+        <lastmod>2026-01-06T09:13:02Z</lastmod>
+        <title>Web Services PWA</title>
+    </url>
+</urlset>
